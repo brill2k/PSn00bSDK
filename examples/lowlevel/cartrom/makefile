@@ -1,4 +1,4 @@
-PREFIX		= mipsel-unknown-elf-
+PREFIX		= mipsel-none-elf-
 
 CC			= $(PREFIX)gcc
 AS			= $(PREFIX)as
